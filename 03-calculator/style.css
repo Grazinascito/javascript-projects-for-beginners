@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+  width: 300px;
+  border: 1px solid red;
+  padding: 20px;
+}
+
+.content-btns {
+  display: flex;
+  gap: 7px;
+}
+
+button{
+    height: 30px;
+    cursor: pointer;
+    font-size: 16px;
+   
+}
+.first-line, .second-line, .third-line, .fourth-line{
+    display: flex;
+    width: 60px;
+    gap: 5px;
+    flex-direction: column;
+
+}
+
+input{
+    width: 100%;
+    outline: none;
+    margin-bottom: 40px;
+    padding: 40px 30px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: end;
+}
+
+h1{
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+
+
