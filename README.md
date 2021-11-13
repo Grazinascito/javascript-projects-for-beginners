@@ -9,3 +9,7 @@ javascript projects for beginners (8 part series)
 6. How to build a Simon Game with JavaScript
 7. How to build a Pomodoro Timer App with JavaScript
 8. How to create your first Chrome extension
+
+font:
+https://freshman.tech/
+https://freshman.tech/random-quote-machine/#tweet-out-a-quote
