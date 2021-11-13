@@ -10,6 +10,6 @@ javascript projects for beginners (8 part series)
 7. How to build a Pomodoro Timer App with JavaScript
 8. How to create your first Chrome extension
 
-font:
-https://freshman.tech/
+font: </br>
+https://freshman.tech/ </br>
 https://freshman.tech/random-quote-machine/#tweet-out-a-quote
