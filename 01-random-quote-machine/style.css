@@ -12,7 +12,7 @@ html {
   
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-    background-color: #c9bd95;
+    background-color: #393939;
   }
   
   .app {
@@ -21,7 +21,7 @@ html {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 600px;
-    background-color: white;
+    background-color: #EAF2F6;
     border-radius: 5px;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
   }
@@ -38,6 +38,10 @@ html {
     padding: 20px 50px;
     min-height: 200px;
   }
+
+ .body-img img{
+   width: 200px;
+ }
   
   .quote-text {
     padding-bottom: 20px;
@@ -73,12 +77,12 @@ html {
   }
   
   .new-quote {
-    background-color: #4A2B0F;
+    background-color: #222222;
     margin-bottom: 15px;
   }
   
   .new-quote:hover {
-    background-color: #6d3b0e;
+    background-color: #222222da;
   }
   
   .new-quote:disabled {
